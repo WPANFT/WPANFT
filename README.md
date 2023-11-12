@@ -1,5 +1,5 @@
 <h1>WPANFT</h1>
-<h3>Window Paper Art NFT 窗花藝術NFT</h3>
+<h3>窗花藝術NFT</h3>
 
 <p>刀鏃窗花，這是一項古老的民間技藝，源自於東方中國一個名叫「弋坡」的古村落，每逢過年，家家淨屋糊窗，戶戶貼新窗花迎接新春，有點綴裝飾，也期盼來年風調雨順、國泰民安。</p>
 <p>窗花技藝未受現代環境、工具與工藝影響，言傳身教、世代延承。 然而社會在進步發展，房屋建築已淘汰舊時麻紙糊窗，窗花漸離大眾生活，市場萎縮，技藝瀕臨失傳。</p>
@@ -7,7 +7,7 @@
 <p>每份NFT都可兌換卯定窗花實物一份，計畫收益一部分用來支付藝人的創作成本，一部分用來支持這項古老技藝的教育訓練。</p>
 <p>您的參與將直接幫助這項古老的藝術技藝得以延續。 也希望您將此項目引薦給更多的人群。</p>
 
-<h3>窗花藝術NFT</h3>
+<h3>Window Paper Art NFT</h3>
 <p>"Knife Tool Window Paper Art," is an ancient folk craft originating from a village called "Yipo" in China. During the Chinese New Year, households traditionally clean and decorate their windows with new paper-cut art, symbolizing a welcome to the spring and expressing hopes for a prosperous and peaceful year ahead.</p>
 <p>The art of crafting window paper has remained unaffected by modern influences on environment, tools, and techniques. Instead, it has been passed down through generations via oral traditions. However, with societal progress and changes in architectural styles, the traditional method of using hemp paper for window decorations has gradually phased out. As a result, window paper art has distanced itself from mainstream living, leading to a shrinking market and the imminent risk of the craft fading away.</p>
 <p>The WPA (Window Paper Art) NFT project aims to rescue and preserve this endangered traditional window art form. Simultaneously, it seeks to showcase this craft to a broader audience of traditional art enthusiasts through the internet. </p>
