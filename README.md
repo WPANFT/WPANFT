@@ -24,6 +24,11 @@
 
 [項目幫助 Project help](https://t.me/+_VhIfDLxnSw4NmM1)
 
+<br/><br/>
+<p align="center">
+  <img src="public/images/water.jpg">
+</p>
+
 <!--
 **WPANFT/WPANFT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
