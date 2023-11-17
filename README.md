@@ -20,7 +20,7 @@
 <br/>
 <p><i>Each window paper art is unique, as it is crafted entirely by hand, and each piece will have some differences. If you exchange tangible goods with NFTs, reasonable variations should be considered a normal phenomenon.</i></p>
 
-<br/><br/>
+<br/>
 
 [項目幫助 Project help](https://t.me/+_VhIfDLxnSw4NmM1)
 
@@ -28,6 +28,11 @@
 <p align="center">
   <img src="public/images/water.jpg">
 </p>
+<br/>
+
+[項目幫助 Project help](https://t.me/+_VhIfDLxnSw4NmM1)
+
+<br/><br/>
 
 <!--
 **WPANFT/WPANFT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
