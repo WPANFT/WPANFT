@@ -22,7 +22,7 @@
 
 <br/><br/>
 <p align="right">
-  <a href="https://t.me/+_VhIfDLxnSw4NmM1" target="_blank">項目幫助 Project help</a>
+  <a href="https://opensea.io/0xc6A6D1a28eE5F045e416C282eD44FB40daF28326" target="_blank">項目地址 project address</a> &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://t.me/+_VhIfDLxnSw4NmM1" target="_blank">項目幫助 Project help</a>
 </p>
 <br/>
 <p align="center">
@@ -30,7 +30,7 @@
 </p>
 <br/>
 <p align="right">
-  <a href="https://t.me/+_VhIfDLxnSw4NmM1" target="_blank">項目幫助 Project help</a>
+  <a href="https://opensea.io/0xc6A6D1a28eE5F045e416C282eD44FB40daF28326" target="_blank">項目地址 project address</a> &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://t.me/+_VhIfDLxnSw4NmM1" target="_blank">項目幫助 Project help</a>
 </p><br/>
 
 <!--
